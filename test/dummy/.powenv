@@ -1,0 +1,12 @@
+export PATH ; PATH="/Users/nicholaideguzman/.rvm/gems/ruby-1.9.2-p320@nisauth/bin:/Users/nicholaideguzman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/nicholaideguzman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/nicholaideguzman/.rvm/bin:$PATH"
+export rvm_env_string ; rvm_env_string='ruby-1.9.2-p320@nisauth'
+export rvm_path ; rvm_path='/Users/nicholaideguzman/.rvm'
+export rvm_ruby_string ; rvm_ruby_string='ruby-1.9.2-p320'
+export rvm_gemset_name ; rvm_gemset_name='nisauth'
+export RUBY_VERSION ; RUBY_VERSION='ruby-1.9.2-p320'
+export GEM_HOME ; GEM_HOME='/Users/nicholaideguzman/.rvm/gems/ruby-1.9.2-p320@nisauth'
+export GEM_PATH ; GEM_PATH='/Users/nicholaideguzman/.rvm/gems/ruby-1.9.2-p320@nisauth:/Users/nicholaideguzman/.rvm/gems/ruby-1.9.2-p320@global'
+export MY_RUBY_HOME ; MY_RUBY_HOME='/Users/nicholaideguzman/.rvm/rubies/ruby-1.9.2-p320'
+export IRBRC ; IRBRC='/Users/nicholaideguzman/.rvm/rubies/ruby-1.9.2-p320/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT
