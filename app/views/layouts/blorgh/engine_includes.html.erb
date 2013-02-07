@@ -1,0 +1,18 @@
+<%= content_for :engine_yield do %>
+	<%= content_for :engine_includes do %>
+  <%= stylesheet_link_tag    "blorgh/application", :media => "all" %>
+  <%= javascript_include_tag "blorgh/application" %>
+  <%= csrf_meta_tags %>
+	<% end %>
+  
+  
+   <%# render :partial=> "/layouts/blorgh/blorgh_menu" %>
+   
+	
+	<%= yield %>
+	   
+	
+
+<% end %>
+
+<%= render :template => 'layouts/application' %>
